@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomChartDataSource.cs](./CS/CustomChartDataSourceWin/CustomChartDataSource.cs) (VB: [CustomChartDataSource.vb](./VB/CustomChartDataSourceWin/CustomChartDataSource.vb))
+<!-- default file list end -->
 # How to: Create a custom chart data source
 
 
